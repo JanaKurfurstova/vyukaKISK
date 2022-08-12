@@ -1,0 +1,40 @@
+LEADER	00000nam  2200000   4500
+001	KN3183000000051213
+005	20150731091618.0
+008	010321s1994    xr |||||||||||||||||cze d
+020			|a 80-85194-75-9 :  |c 89.00 
+040			|a OPG001  |b cze 
+041	1		|a cze  |h pol 
+080			|a 929  |2 h 
+100	1		|a Grünberg, Karl,  |d 1891-1972  |7 jn20000602676  |4 aut 
+245	1	0	|a Adolf Hitler :  |b životopis Führera /  |c Karol Gründberg ; [Z polského originálu přeložil Vladimír Uhlíř] 
+250			|a 1. vyd. 
+260			|a [Litvínov] :  |b Dialog,  |c 1994 
+300			|a 350 s., fot.příl. 
+500			|a 92 Hitler, A. 
+653	0		|a životopisy  |a Hitler, Adolf  |a Německo  |a politika  |a strany  |a NSDAP  |a 30. léta 20. stol.  |a 2. světová válka 
+700	1		|a Uhlíř, Vladimír,  |d 1927-2010  |7 jk01140663  |4 trl 
+
+LEADER	00000cam a2200000 a 4500
+001	0470332
+003	CZ-LiKVK
+005	20220209083322.0
+008	030811s1993----xr-a---b-p----000-0-cze--
+015			|a cnb001279892 
+020			|a 80-85194-75-9 (sv. 1 : brož.) 
+035			|a (OCoLC)53270019 
+040			|a ABA001  |b cze  |d LIA001 
+072		7	|a 51  |x Matematika  |2 Konspekt  |9 13  |T .  |7 sk136305 
+080			|a 51  |2 MRF-sel 
+100	1		|a Cihlář, Jiří,  |d 1943-  |4 aut  |7 jn19981000489 
+245	1	0	|a Matematika pro první třídu :  |b pracovní učebnice /  |c Jiří Cihlář, Jan Melichar, Milan Zelenka ; [ilustrace Stanislav Holý] 
+246	3		|a Matematika pro 1. třídu 
+250			|a Vyd. 1. 
+260			|a Litvínov :  |b Dialog,  |c 1993 
+300			|a 2 sv. (64, 64) s. :  |b barev. il. ;  |c 29 cm +  |e 2 x [4] l. příl. 
+650		7	|a počítání  |2 czenas  |7 ph124522 
+650	0	7	|a matematika  |2 czenas  |7 ph117231 
+655		7	|a učebnice základních škol  |2 czenas  |7 fd133773 
+700	1		|a Melichar, Jan,  |d 1940-2022  |4 aut  |7 jo20000080637 
+700	1		|a Zelenka, Milan  |4 aut  |7 jx20040617039 
+700	1		|a Holý, Stanislav,  |d 1943-1998  |4 ill  |7 jk01041874 
