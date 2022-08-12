@@ -1,0 +1,50 @@
+LEADER	00000cam a2200000 a 4500
+001	000194341
+003	CZ HkSVK
+005	20220726093554.0
+008	000315 2000    xr     e            cze  
+020			|a 80-902723-2-0  |q (soubor) 
+020			|a 80-902723-3-9  |q (1. svazek) 
+020			|a 80-902723-4-7  |q (2. svazek) 
+020			|a 80-902723-5-5  |q (3. svazek) 
+020			|a 80-902723-7-1  |q (4. svazek) 
+040			|a HKA001  |b cze 
+072		7	|a 030  |x Všeobecná příručková díla  |2 Konspekt  |9 12 
+080			|a 0/9(031)  |2 MRF 
+245	0	0	|a Diderot :  |b velká všeobecná encyklopedie 
+246	3	3	|a Velká všeobecná encyklopedie 
+250			|a Vyd. 1. 
+260			|a Praha :  |b Diderot,  |c 2000- 
+300			|a 4 sv. (629, 677, 639 s.) :  |b il. ;  |c 25 cm 
+505	0		|a sv. 1. A-bag. 2000. 631 s. -- sv. 2. Bah-buq. 2000. 677 s. -- sv. 3. Bur-daz. 2000. 639 s. -- sv. 4. Daž-erb. 2001. 639 s. 
+653	0		|a encyklopedie všeobecné 
+655		7	|a encyklopedie  |7 fd132201  |2 czenas 
+
+LEADER	00000nam a2200000 aa4500
+001	cpk20000970376
+003	CZ PrNK
+005	20210115075310.0
+007	ta
+008	000404m20002002xr abc e e    000 0dcze  
+015			|a cnb000970376 
+020			|a 80-902723-2-0  |q (soubor) 
+020			|a 80-902723-3-9  |q (1. díl ;  |q váz.) 
+020			|a 80-902723-4-7  |q (2. díl ;  |q váz.) 
+020			|a 80-902723-5-5  |q (3. díl ;  |q váz.) 
+020			|a 80-902723-7-1  |q (4. díl ;  |q váz.) 
+035			|a (OCoLC)45372226 
+040			|a ABA001  |b cze 
+072		7	|a 030  |x Všeobecná příručková díla  |2 Konspekt  |9 12 
+080			|a 030  |2 MRF 
+080			|a (031)  |2 MRF 
+245	0	0	|a Diderot :  |b velká všeobecná encyklopedie 
+246	3	0	|a Velká všeobecná encyklopedie 
+250			|a Vyd. 1. 
+260			|a Praha :  |b Diderot,  |c 2000-2002 
+300			|a 8 sv. :  |b barev. il., mapy, portréty ;  |c 25 cm 
+505	1		|a 1. A-bag. 2000. 631 s. -- 2. Bah-buq. 2000. 677 s. -- 3. Bur-daz. 2000. 639 s. -- 4. Daž-erb. 2001. 639 s. 
+650	0	9	|a Encyclopedias and dictionaries, Czech  |2 eczenas 
+655		7	|a encyklopedie  |7 fd132201  |2 czenas 
+856	4	1	|u http://krameriusndk.nkp.cz/search/handle/uuid:300c7a80-364e-11e3-a5bb-005056827e52  |y Digitalizovaný dokument  |z Sv. 1, A-Bag 
+856	4	1	|u http://krameriusndk.nkp.cz/search/handle/uuid:bfedc7e0-364d-11e3-a5bb-005056827e52  |y Digitalizovaný dokument  |z Sv. 2, Bah-Buq 
+856	4	1	|u http://krameriusndk.nkp.cz/search/handle/uuid:bf6fbe40-364d-11e3-a5bb-005056827e52  |y Digitalizovaný dokument  |z Sv. 3, Bur-Daz 
