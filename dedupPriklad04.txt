@@ -1,0 +1,89 @@
+LEADER	00000nam  2200000   4500
+001	KN3183000000163087
+005	20090925092531.0
+008	050725s1995    xr |||||||||||||||||cze d
+020			|c 82.00 Kč 
+040			|a OPG001  |b cze 
+100	1		|a Horká, Hana,  |d 1949-  |7 mzk2005295002  |4 aut 
+245	1	0	|a Motýlek :  |b ekologická čítanka pro děti od 7 do 11 let /  |c Hana Horká, Květoslava Santlerová ; ilustrace Jana Potůčková 
+250			|a Vyd. 1. 
+260			|a [Brno] :  |b [Jitka Spiesová],  |c 1995 
+300			|a 49 s. :  |b il., noty 
+653	0		|a ekologie  |a výchova  |a ochrana  |a životní prostředí  |a odpady  |a skleníkový efekt  |a ozónová díra 
+700	1		|a Santlerová, Květoslava,  |d 1955-  |7 mzk2004231207  |4 aut 
+700	1		|a Potůčková, Jana  |7 jx20040720124  |4 ill 
+
+LEADER	00000nam a2200000-a 4500
+001	001580000242971
+005	20220115093818.9
+008	030205s1995----xr-|||||||||||||||||cze-d
+020			|c 82.00 
+040			|b cze 
+080			|a 502  |2 MRF-sel 
+080			|a 502  |2 MRF-sel 
+080			|a 574  |2 MRF-sel 
+100	1		|a Horká, Hana,  |d 1949-  |7 mzk2005295002  |4 aut 
+245	1	0	|a Motýlek :  |b ekologická čítanka pro děti od 7 do 11 let  |c Hana Horká / Kvěslava Santlerová ; ilustrace Jana Potůčková 
+250			|a Vyd. 1. 
+260			|a Brno :  |b Jitka Spiesová,  |c 1995 
+300			|a 49 s. : il. +  |e 1 volná příl. 
+500			|a Příloha: Malá příručka pro učitele (11 s. ) 
+650	0	4	|a základní školy 
+650	0		|a ochrana přírody 
+653	0		|a ekologie  |a ekologická výchova a vzdělávání  |a odpady  |a skleníkový efekt  |a ozonová díra 
+655	0	4	|a příručky  |7 fd133209 
+700	1		|a Santlerová, Květoslava,  |d 1955-  |7 mzk2004231207  |4 aut 
+700	1		|a Potůčková, Jana  |7 jx20040720124  |4 ill 
+
+LEADER	00000cam a22000007a 4500
+001	000241218
+003	CZ PrSKC
+005	20051005081533.0
+008	961210s1995    xr ||||| |||||||| ||cze|d
+040			|a BOD003  |b cze  |d BOD003 
+080			|a 37.016:82  |2 MRF 
+080			|a 502:37.03  |2 MRF 
+100	1		|a Horká, Hana.  |4 aut 
+245	1	0	|a Motýlek :  |b ekologická čítanka : pro děti od 7 do 11 let /  |c Hana Horká, Květoslava Santlerová ; ilustrace Jana Potůčková. 
+250			|a Vyd. 1. 
+260			|a Brno :  |b Učebnice a knihy Jitka Spiesová,  |c 1995. 
+300			|a 50 s. +  |e 1 příloha. 
+500			|a Příloha: malá příručka pro učitele. 
+650	0	7	|a environmentální výchova a vzdělávání  |7 ph119964  |2 czenas 
+650	0	7	|a literární výchova  |7 ph117228  |2 czenas 
+655		7	|a učebnice základních škol  |7 fd133773  |2 czenas 
+700	1		|a Potůčková, Jana.  |4 ill 
+700	1		|a Santlerová, Květoslava.  |4 aut 
+
+LEADER	00000nam a22000003i 4500
+001	70000041
+003	CZ-BrKJM
+005	20191118190020.9
+008	140821s        xr |||||||||||||||||cze d
+040			|a BOG001  |b cze 
+072		7	|a 502  |x Životní prostředí a jeho ochrana  |2 Konspekt  |9 2  |7 sk135928 
+072		7	|a 0/9-053.2  |x Literatura pro děti a mládež (naučná)  |2 Konspekt  |9 26  |7 sk616154 
+080			|a 502 
+080			|a 37.03 
+080			|a 574 
+080			|a 82 
+080			|a 37.01 
+245	0	0	|a Motýlek :  |b ekologická čítanka /  |c [sestavily] Hana Horká, Květoslava Santlerová ; ilustrace Jana Potůčková 
+260			|a [Brno] :  |b [Učebnice a knihy J. Spiesová],  |c [1995] 
+300			|a 50 s. :  |b il. (převážně barev.), noty ;  |c 30 cm 
+500			|a Schválilo MŠMT ČR v r. 1995 k zařazení do seznamu učebnic pro základní školy 
+500			|a Náměty a úkoly průběžně v textu 
+504			|a Obsahuje bibliografii 
+521	8		|a Pro děti od 7 do 11 let 
+650		7	|a environmentální výchova a vzdělávání  |2 czenas  |7 ph119964 
+650		7	|a ekologie  |2 czenas  |7 ph114418 
+650		7	|a literární výchova  |2 czenas  |7 ph117228 
+653	0		|a přírodovědné vzdělávání  |a životní prostředí  |a základní vzdělávání  |a děti mladšího školního věku  |a hry  |a činnostní učení 
+655		7	|a učební texty  |2 czenas  |7 fd133599 
+655		7	|a čítanky  |2 czenas  |7 fd133984 
+655		7	|a české příběhy  |2 czenas  |7 fd133973 
+655		7	|a publikace pro mládež  |2 czenas  |7 fd133157 
+655		7	|a brožury  |2 czenas  |7 fd131925 
+700	1		|a Horká, Hana,  |d 1949-  |4 com  |7 mzk2005295002 
+700	1		|a Santlerová, Květoslava,  |d 1955-  |4 com  |7 mzk2004231207 
+700	1		|a Potůčková, Jana  |4 ill  |7 jx20040720124 
