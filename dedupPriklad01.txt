@@ -1,0 +1,41 @@
+LEADER	00000nam a2200000 a 4500
+001	zpk20130076268
+003	CZ PrNK
+005	20131030104535.0
+007	ta
+008	120807s2012    xxkad  f      001   eng  
+020			|a 978-1-85604-810-1 
+040			|a ABA003  |b cze  |9 2 
+072		7	|a 316.77  |x Informační věda  |2 Konspekt  |9 12 
+072		9	|a 303.483  |x Development of science and technology  |2 Conspectus  |9 12 
+080			|a 316.77-027.21  |2 MRF 
+080			|a (075)  |2 MRF 
+100	1		|a Bawden, David,  |d 1952-  |7 js20080511002  |4 aut 
+245	1	0	|a Introduction to information science /  |c David Bawden and Lyn Robinson 
+260			|a London :  |b Facet,  |c 2012 
+300			|a xxx, 351 s. :  |b il., grafy, tabulky 
+504			|a Obsahuje bibliografické odkazy a rejstřík 
+650	0	7	|a informační věda  |7 ph121108  |2 czenas 
+655		7	|a učebnice  |7 fd133770  |2 czenas 
+700	1		|a Robinson, Lyn  |7 js20110609003  |4 aut 
+
+LEADER	00000nam a22000004a 4500
+001	001137369
+003	CZ PrAS
+005	20160421152304.0
+008	130918s2012    xxkac  f      001 0 eng d
+020			|a 978-1-85604-810-1 
+040			|a ABA007  |b cze 
+072		7	|a 316.77  |x Informační věda  |2 Konspekt  |9 12 
+080			|a 316.77-027.21  |2 MRF 
+080			|a (048.8)  |2 MRF 
+100	1		|a Bawden, David,  |d 1952-  |7 js20080511002  |4 aut 
+245	1	0	|a Introduction to information science /  |c David Bawden and Lyn Robinson. 
+250			|a 1st publ. 
+260			|a London :  |b Facet Publishing,  |c 2012. 
+300			|a xxx, 351 s. :  |b il., portréty. 
+504			|a Obsahuje bibliografie a rejstřík 
+650	0	7	|a informační věda  |7 ph121108  |2 czenas 
+650	0	9	|a information science  |2 eczenas 
+655		7	|a monografie  |7 fd132842  |2 czenas 
+655		9	|a monographs  |2 eczenas 
