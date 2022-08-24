@@ -1,0 +1,10 @@
+LEADER	00000nam a22000001a 4500
+001	gk09010676
+003	CZ PrNK
+005	20130905000000.0
+008	120525s1939    xxk                 eng  
+040			|a ABA001  |b cze  |c ABA001 
+100	1		|a Dodgson, Charles Lutwidge,  |d 1832-1898  |7 jo19990046459  |4 aut 
+245	1	0	|a Through the looking-glass and what Alice found there /  |c Lewis Caroll ; with 5 illustrations by John Tenniel 
+260			|a London :  |b Macmillan and Co,  |c 1939 
+300			|a 208 s. 

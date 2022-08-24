@@ -1,0 +1,11 @@
+LEADER	00000nam a2200000   4500
+001	vkol000611765
+003	CZ OlVK
+005	20060814190102.0
+008	021029s1717    fr     f            lat  
+990			|a RP 
+040			|a OLA001  |b cze 
+100	0		|a František  |b I.,  |c francouzský král,  |d 1494-1547  |7 jn20000700556 
+245	1	0	|a Francisci Regis Francorum Legatio ad Principes Electores Francofurdium missa, pro Suffragiis ad Imperium conciliandis Non. Julii Anno 1519. Ex editione ipsius temporis 
+260			|a Argentorati (Johannis Reinhold Saxonico) :  |b 1717 
+500			|a Viz: Struvii Rerum Germanicarum Scriptores aliquot insignes, sv. 3., s. 167 

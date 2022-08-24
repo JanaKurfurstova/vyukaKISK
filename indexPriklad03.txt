@@ -1,0 +1,13 @@
+LEADER	00000nam a2200000   4500
+001	vkol000611566
+003	CZ OlVK
+005	20140717085302.0
+008	021029s1799    au     f            ger  
+990			|a RP 
+035			|a (OCoLC)320746638 
+040			|a OLA001  |b cze 
+100	0		|a František  |b I.,  |c rakouský císař,  |d 1768-1835  |7 jn20000700557 
+245	1	0	|a Politische Gesetze und Verordnungen für die Oesterreichischen, Böhmischen und Galizischen Erbländer.  |n 12. Bd.,  |p Welcher die Verordnungen von 1. Januar bis 1. Julius 1798 enthält 
+246	3	0	|a Welcher die Verordnungen von 1. Januar bis 1. Julius 1798 enthält 
+260			|a Wien :  |b K.k. Hof- und Staats Druckerey,  |c 1799 
+300			|a 244 s. 

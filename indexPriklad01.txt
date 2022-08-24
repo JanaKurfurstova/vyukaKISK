@@ -1,0 +1,25 @@
+LEADER	00000nam a2200000 i 4500
+001	jic20160085527
+003	CZ PrNK
+005	20161213180941.0
+006	m        d
+007	cr cn
+008	161213s2015    xr      o     000 0 cze  
+040			|a ABA003  |b cze  |e rda  |9 2 
+072		7	|a 025.3/.4  |x Katalogizace. Selekční jazyky  |2 Konspekt  |9 12 
+072		9	|a 025.3-025.4  |x Bibliographic and subject analysis and control  |2 Conspectus  |9 12 
+080			|a 025.4.01  |2 MRF 
+080			|a (035)  |2 MRF 
+100	1		|a Krčál, Martin,  |d 1978-  |7 js20081204001  |4 aut 
+245	1	0	|a Citujte jednoduše :  |b instrukce pro vyučující středních škol /  |c autoři textů: Martin Krčál, Karolína Krbcová, Jakub Horák 
+264		1	|a Brno :  |b Ucimcitace.cz,  |c 2015 
+300			|a 1 online zdroj (14 stran) 
+336			|a text  |b txt  |2 rdacontent 
+337			|a počítač  |b c  |2 rdamedia 
+338			|a online zdroj  |b cr  |2 rdacarrier 
+347			|a textový soubor  |b PDF  |2 rda 
+500			|a Název z titulní obrazovky 
+650	0	7	|a bibliografické citace  |7 ph139249  |2 czenas 
+655		7	|a příručky  |7 fd133209  |2 czenas 
+700	1		|a Krbcová, Karolína  |4 aut 
+700	1		|a Horák, Jakub  |4 aut 

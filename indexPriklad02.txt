@@ -1,0 +1,39 @@
+LEADER	00000nam a2200000 a 4500
+001	nkc20091966977
+003	CZ PrNK
+005	20150827125933.0
+007	ta
+008	090710s2009    xr ach e f    000 0 cze  
+015			|a cnb001966977 
+020			|a 978-80-254-5538-8  |q (v knize neuvedeno ;  |q brož.) 
+035			|a (OCoLC)433017039 
+040			|a ABA001  |b cze 
+043			|a e-xr---  |b e-xr-zl  |2 czenas 
+045			|a x0y0 
+072		7	|a 796  |x Sport. Hry. Tělesná cvičení  |2 Konspekt  |9 20 
+080			|a 796.5:061  |2 MRF 
+080			|a 796.5  |2 MRF 
+080			|a 796.5(091)  |2 MRF 
+080			|a (437.323)  |2 MRF 
+080			|a (082.2)  |2 MRF 
+100	1		|a Krčál, Martin,  |d 1979-  |7 jo2012705839  |4 aut 
+245	1	0	|a 100 let Klubu českých turistů v Kroměříži /  |c Martin Krčál 
+246	3		|a Sto let Klubu českých turistů v Kroměříži 
+250			|a 1. vyd. 
+260			|a Kroměříž :  |b Odbor KČT,  |c 2009 
+300			|a 162 s. :  |b il., portréty, faksim. ;  |c 21 cm 
+500			|a Terminologický slovník 
+504			|a Obsahuje bibliografii 
+610	2	7	|a Klub českých turistů (Kroměříž, Česko)  |7 xx0022171  |2 czenas 
+648		4	|a 1909-2009 
+650	0	7	|a turistické organizace  |7 ph249601  |z Česko  |y 20.-21. století  |2 czenas 
+650	0	7	|a turistika  |7 ph116506  |z Česko  |y 20.-21. století  |2 czenas 
+650	0	7	|a dějiny turistiky  |7 ph518312  |z Česko  |y 20.-21. století  |2 czenas 
+650	0	9	|a tourist associations and clubs  |z Czechia  |y 20th-21st centuries  |2 eczenas 
+650	0	9	|a hiking  |z Czechia  |y 20th-21st centuries  |2 eczenas 
+650	0	9	|a history of tourism  |z Czechia  |y 20th-21st centuries  |2 eczenas 
+651		7	|a Kroměříž (Česko)  |7 ge129682  |2 czenas 
+651		9	|a Kroměříž (Czechia)  |2 eczenas 
+655		7	|a jubilejní publikace  |7 fd131839  |2 czenas 
+655		9	|a jubilee books  |2 eczenas 
+710	2		|a Klub českých turistů (Kroměříž, Česko)  |7 xx0022171 

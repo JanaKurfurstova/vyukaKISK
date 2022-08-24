@@ -1,0 +1,29 @@
+LEADER	00000cam a2200000 i 4500
+001	nkc20152709922
+003	CZ PrNK
+005	20150819075514.0
+007	ta
+008	150519s2015    xr     g      000 f cze d
+015			|a cnb002709922 
+020			|a 978-80-7390-253-7  |q (vázáno) 
+035			|a (OCoLC)918017350 
+040			|a PNA001  |b cze  |d OLA001  |d ABA001  |e rda 
+041	1		|a cze  |h ger 
+072		7	|a 821.112.2-3  |x Německá próza, německy psaná  |2 Konspekt  |9 25 
+080			|a 821.112.2(437.3)-31  |2 MRF 
+080			|a (0:82-31)  |2 MRF 
+100	1		|a Kafka, Franz,  |d 1883-1924  |7 jn19990218037  |4 aut 
+240	1	0	|a Amerika.  |l Česky  |7 aun2008463245 
+245	1	0	|a Amerika /  |c Franz Kafka ; přeložila: Dagmar Eisnerová 
+264		1	|a Praha :  |b Dobrovský s.r.o.,  |c 2015 
+300			|a 226 stran ;  |c 21 cm 
+336			|a text  |b txt  |2 rdacontent 
+337			|a bez média  |b n  |2 rdamedia 
+338			|a svazek  |b nc  |2 rdacarrier 
+490	1		|a Omega 
+500			|a Přeloženo z němčiny 
+655		7	|a německy psané romány  |7 fd132937  |2 czenas 
+655		9	|a fiction in German  |2 eczenas 
+700	1		|a Eisnerová, Dagmar,  |d 1922-2000  |7 jk01030387  |4 trl 
+
+830		0	|a Omega (Dobrovský) 
